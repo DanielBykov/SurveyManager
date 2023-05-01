@@ -1,4 +1,5 @@
-Live demo - https://survey.sovgvd.info/
+EDENZ Colledge - Capstone Project.
+Silverstripe, JQuery
 
 Terminal commands:
  'gulp' - watch file changes, reload
